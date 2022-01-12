@@ -41,7 +41,7 @@
       </p>
     </div>
     <div class="about-footer">
-      <a class="download-btn" href="./home-assets/visuals/omar-nema-resume.pdf">
+      <a class="download-btn" href="/">
         download cv
       </a>
     </div>
