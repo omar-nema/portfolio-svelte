@@ -1,6 +1,6 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-f2b3d1cb.js",
+    "file": "start-7c49c05d.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
@@ -42,7 +42,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-52b2ff44.js",
+    "file": "pages/index.svelte-59804661.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -50,98 +50,98 @@
       "_vendor-1827c632.js",
       "_Header-07c3b71b.js",
       "_paths-28a87002.js",
-      "_Filters.svelte_svelte_type_style_lang-37422ef3.js"
+      "_Filters.svelte_svelte_type_style_lang-548d01ca.js"
     ],
     "css": [
       "assets/pages/index.svelte-c2733a21.css"
     ]
   },
   "src/routes/projects/floating-thoughts.svelte": {
-    "file": "pages/projects/floating-thoughts.svelte-83987e49.js",
+    "file": "pages/projects/floating-thoughts.svelte-0b461e99.js",
     "src": "src/routes/projects/floating-thoughts.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/thought-parser.svelte": {
-    "file": "pages/projects/thought-parser.svelte-581f4b88.js",
+    "file": "pages/projects/thought-parser.svelte-504a7786.js",
     "src": "src/routes/projects/thought-parser.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/comp-sketches.svelte": {
-    "file": "pages/projects/comp-sketches.svelte-caca07bb.js",
+    "file": "pages/projects/comp-sketches.svelte-e4c7f5e4.js",
     "src": "src/routes/projects/comp-sketches.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/nyc-housing.svelte": {
-    "file": "pages/projects/nyc-housing.svelte-03c4a3b8.js",
+    "file": "pages/projects/nyc-housing.svelte-7e018ac5.js",
     "src": "src/routes/projects/nyc-housing.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/sound-space.svelte": {
-    "file": "pages/projects/sound-space.svelte-85487c30.js",
+    "file": "pages/projects/sound-space.svelte-e33cd120.js",
     "src": "src/routes/projects/sound-space.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_paths-28a87002.js",
       "_InfoSection-e440b4c7.js"
     ]
   },
   "src/routes/projects/blackbox.svelte": {
-    "file": "pages/projects/blackbox.svelte-23118df2.js",
+    "file": "pages/projects/blackbox.svelte-87552e14.js",
     "src": "src/routes/projects/blackbox.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/tell-me.svelte": {
-    "file": "pages/projects/tell-me.svelte-1c6f5203.js",
+    "file": "pages/projects/tell-me.svelte-9fe6e4b1.js",
     "src": "src/routes/projects/tell-me.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js",
       "_paths-28a87002.js"
@@ -160,31 +160,31 @@
     ]
   },
   "src/routes/projects/gaze.svelte": {
-    "file": "pages/projects/gaze.svelte-f3c9340a.js",
+    "file": "pages/projects/gaze.svelte-34a86615.js",
     "src": "src/routes/projects/gaze.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-dff72e19.js",
+      "_ProjectPage-a22bfdd6.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-08fa16f0.js",
+    "file": "pages/about.svelte-05ad787f.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
       "_Header-07c3b71b.js",
-      "_Filters.svelte_svelte_type_style_lang-37422ef3.js",
+      "_Filters.svelte_svelte_type_style_lang-548d01ca.js",
       "_paths-28a87002.js"
     ],
     "css": [
-      "assets/pages/about.svelte-85f875f7.css"
+      "assets/pages/about.svelte-ed66bd20.css"
     ]
   },
   "_vendor-1827c632.js": {
@@ -203,8 +203,8 @@
       "assets/Header-5f9dca32.css"
     ]
   },
-  "_Filters.svelte_svelte_type_style_lang-37422ef3.js": {
-    "file": "chunks/Filters.svelte_svelte_type_style_lang-37422ef3.js",
+  "_Filters.svelte_svelte_type_style_lang-548d01ca.js": {
+    "file": "chunks/Filters.svelte_svelte_type_style_lang-548d01ca.js",
     "imports": [
       "_vendor-1827c632.js"
     ],
@@ -212,12 +212,15 @@
       "assets/Filters.svelte_svelte_type_style_lang-aec320cd.css"
     ]
   },
-  "_ProjectPage-dff72e19.js": {
-    "file": "chunks/ProjectPage-dff72e19.js",
+  "_ProjectPage-a22bfdd6.js": {
+    "file": "chunks/ProjectPage-a22bfdd6.js",
     "imports": [
       "_vendor-1827c632.js",
       "_Header-07c3b71b.js",
       "_InfoSection-e440b4c7.js"
+    ],
+    "css": [
+      "assets/ProjectPage-0e74a289.css"
     ]
   },
   "_InfoSection-e440b4c7.js": {
