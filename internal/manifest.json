@@ -1,6 +1,6 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-7c49c05d.js",
+    "file": "start-3f8cf44d.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
@@ -57,123 +57,123 @@
     ]
   },
   "src/routes/projects/floating-thoughts.svelte": {
-    "file": "pages/projects/floating-thoughts.svelte-0b461e99.js",
+    "file": "pages/projects/floating-thoughts.svelte-ae2b7e75.js",
     "src": "src/routes/projects/floating-thoughts.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/thought-parser.svelte": {
-    "file": "pages/projects/thought-parser.svelte-504a7786.js",
+    "file": "pages/projects/thought-parser.svelte-974ddf2d.js",
     "src": "src/routes/projects/thought-parser.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/comp-sketches.svelte": {
-    "file": "pages/projects/comp-sketches.svelte-e4c7f5e4.js",
+    "file": "pages/projects/comp-sketches.svelte-5389daf5.js",
     "src": "src/routes/projects/comp-sketches.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/nyc-housing.svelte": {
-    "file": "pages/projects/nyc-housing.svelte-7e018ac5.js",
+    "file": "pages/projects/nyc-housing.svelte-4ebfaf76.js",
     "src": "src/routes/projects/nyc-housing.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/sound-space.svelte": {
-    "file": "pages/projects/sound-space.svelte-e33cd120.js",
+    "file": "pages/projects/sound-space.svelte-c0b8a063.js",
     "src": "src/routes/projects/sound-space.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
       "_paths-28a87002.js",
-      "_InfoSection-e440b4c7.js"
+      "_InfoSection-55c5104a.js"
     ]
   },
   "src/routes/projects/blackbox.svelte": {
-    "file": "pages/projects/blackbox.svelte-87552e14.js",
+    "file": "pages/projects/blackbox.svelte-02e5021e.js",
     "src": "src/routes/projects/blackbox.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/tell-me.svelte": {
-    "file": "pages/projects/tell-me.svelte-9fe6e4b1.js",
+    "file": "pages/projects/tell-me.svelte-ec6b96f1.js",
     "src": "src/routes/projects/tell-me.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/thesis.svelte": {
-    "file": "pages/projects/thesis.svelte-a55bcb95.js",
+    "file": "pages/projects/thesis.svelte-9f8a2748.js",
     "src": "src/routes/projects/thesis.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/projects/gaze.svelte": {
-    "file": "pages/projects/gaze.svelte-34a86615.js",
+    "file": "pages/projects/gaze.svelte-8fdf91ea.js",
     "src": "src/routes/projects/gaze.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-1827c632.js",
-      "_ProjectPage-a22bfdd6.js",
+      "_ProjectPage-c9503d2c.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js",
+      "_InfoSection-55c5104a.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-05ad787f.js",
+    "file": "pages/about.svelte-656f59aa.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -200,7 +200,7 @@
       "_paths-28a87002.js"
     ],
     "css": [
-      "assets/Header-5f9dca32.css"
+      "assets/Header-b6da04b5.css"
     ]
   },
   "_Filters.svelte_svelte_type_style_lang-548d01ca.js": {
@@ -212,25 +212,25 @@
       "assets/Filters.svelte_svelte_type_style_lang-aec320cd.css"
     ]
   },
-  "_ProjectPage-a22bfdd6.js": {
-    "file": "chunks/ProjectPage-a22bfdd6.js",
+  "_ProjectPage-c9503d2c.js": {
+    "file": "chunks/ProjectPage-c9503d2c.js",
     "imports": [
       "_vendor-1827c632.js",
       "_Header-07c3b71b.js",
-      "_InfoSection-e440b4c7.js"
+      "_InfoSection-55c5104a.js"
     ],
     "css": [
       "assets/ProjectPage-0e74a289.css"
     ]
   },
-  "_InfoSection-e440b4c7.js": {
-    "file": "chunks/InfoSection-e440b4c7.js",
+  "_InfoSection-55c5104a.js": {
+    "file": "chunks/InfoSection-55c5104a.js",
     "imports": [
       "_vendor-1827c632.js",
       "_Header-07c3b71b.js"
     ],
     "css": [
-      "assets/InfoSection-9d05d097.css"
+      "assets/InfoSection-e0c28701.css"
     ]
   }
 }
