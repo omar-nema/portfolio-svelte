@@ -14,7 +14,7 @@
 <a
   class="card"
   sveltekit:prefetch
-  href={'.' + data.url}
+  href={data.url}
   transition:fade
   on:click={() => {
     $selectedProject = data.title;

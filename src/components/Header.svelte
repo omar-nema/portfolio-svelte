@@ -9,27 +9,27 @@
   <div class="inner-header">
     <div class="name-holder">
       <div class="header-name">
-        <a sveltekit:prefetch href="/">omar nema</a>
+        <a sveltekit:prefetch href="./">omar nema</a>
       </div>
     </div>
     <div
       class="header-nav"
       class:split={$page.url.pathname.includes('project')}
     >
-      {#if $page.url.pathname == '/' || $page.url.pathname == '/about'}
+      {#if !$page.url.pathname.includes('project')}
         <div
           class="nav-item work"
-          class:selected={$page.url.pathname !== '/about'}
+          class:selected={!$page.url.pathname.includes('about')}
           in:fade={{ duration: $transitionTime }}
         >
-          <a sveltekit:prefetch href="/">work</a>
+          <a sveltekit:prefetch href="./">work</a>
         </div>
         <div
           class="nav-item about"
-          class:selected={$page.url.pathname === '/about'}
+          class:selected={$page.url.pathname.includes('about')}
           in:fade={{ duration: 500 }}
         >
-          <a sveltekit:prefetch href="/about">about</a>
+          <a sveltekit:prefetch href="about">about</a>
         </div>
       {:else}
         <div class="nav-left" in:fade={{ duration: $transitionTime }}>
@@ -38,7 +38,7 @@
           <div class="selected project-title">{$selectedProject}</div>
         </div>
         <div class="nav-right" in:fade={{ duration: $transitionTime }}>
-          <a class="btn-back" href="/">{'< back'}</a>
+          <a class="btn-back" href="../">{'< back'}</a>
         </div>
       {/if}
     </div>

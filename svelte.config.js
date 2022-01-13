@@ -16,7 +16,8 @@ const config = {
     target: '#svelte',
 
     paths: {
-      base: dev ? '' : '/portfolio-svelte',
+      base: '/portfolio-svelte',
+      // base: dev ? '' : '/portfolio-svelte',
     },
     appDir: 'internal',
   },
